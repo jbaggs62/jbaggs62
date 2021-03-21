@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbaggs62
+- 👋 Hi, I’m Jake
 - 👀 I’m interested in Machine Learning, K8's, and MlOps
 - 🌱 I’m currently in grad school for computer science
 - 💞️ I’m looking to collaborate on MlOps
