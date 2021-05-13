@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jake
-- 👀 I’m interested in Machine Learning, K8's, and MLOps
+- 👀 I’m interested in Machine Learning, K8's, SRE, DevOps and MLOps
 - 🌱 I’m currently in grad school for computer science
 - 💞️ I’m looking to collaborate on MLOps
 
