@@ -17,9 +17,9 @@ class about_me:
     languages: tuple[str, ...] = ("Python", "Java", "Rust", "Go")
     databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "DynamoDB", 
                                   "Cassandra", "DB2", "MongoDB")
-    technologies:      tuple[str, ...] = ("Docker", "Kubernetes", "DVC", 
+    technologies: tuple[str, ...] = ("Docker", "Kubernetes", "DVC", 
                                           "Git", "SQS","AWS","GitOps")
-    hobbies:      tuple[str, ...] = ("BJJ", "Keyboards", "Gaming", "Crypto")
+    hobbies: tuple[str, ...] = ("BJJ", "Keyboards", "Gaming", "Crypto")
 
     def jsonify(self):
         return json.dumps(asdict(self), indent=4)
