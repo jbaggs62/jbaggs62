@@ -23,8 +23,8 @@ class about_me:
 
     def jsonify(self):
         return json.dumps(asdict(self), indent=4)
-jake = about_me()
-print(jake.jsonify())
+    jake = about_me()
+    print(jake.jsonify())
 ```
 <!---
 jbaggs62/jbaggs62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
