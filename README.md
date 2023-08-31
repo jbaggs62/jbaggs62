@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Jake Baggs! <img src="https://media.giphy.com/media/l0MYDEPLWRWbJoRuU/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/YST1Ffp9hIFNaH7OiR/giphy.gif" width="120">
-<p><em>SRE at Alteryx <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="30"></br>Grad Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>SRE at Tesla <img src="https://user-images.githubusercontent.com/5418178/148027715-54ed9a87-67b8-4bd2-ae1b-a36b8cb1b1e4.png" width="30"></br>Grad Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin:jacob baggs](https://img.shields.io/badge/-jacobbaggs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-baggs-41a00485/)](https://www.linkedin.com/in/jacob-baggs-41a00485/)
@@ -17,9 +17,9 @@ class about_me:
     languages: tuple[str, ...] = ("Python", "Java", "Rust", "Go")
     databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "DynamoDB", 
                                   "Cassandra", "DB2", "MongoDB")
-    technologies: tuple[str, ...] = ("Docker", "Kubernetes", "DVC", 
+    technologies: tuple[str, ...] = ("Docker", "Kubernetes", "GCP", 
                                           "Git", "SQS","AWS","GitOps")
-    hobbies: tuple[str, ...] = ("BJJ", "Keyboards", "Gaming", "Crypto")
+    hobbies: tuple[str, ...] = ("BJJ", "Keyboards", "Gaming", "Cryptography")
 
     def jsonify(self):
         return json.dumps(asdict(self), indent=4)
