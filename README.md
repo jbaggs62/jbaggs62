@@ -1,9 +1,8 @@
 
 <h2> Hi, I'm Jake Baggs! <img src="https://media.giphy.com/media/l0MYDEPLWRWbJoRuU/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/YST1Ffp9hIFNaH7OiR/giphy.gif" width="120">
-<p><em>SRE at Tesla <img src="https://www.pinclipart.com/picdir/middle/408-4082427_tesla-logo-motors-png-tesla-logo-vector-clipart.png" width="30"></br>Grad Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
+<p><em>SRE at Tesla <img src="https://www.pinclipart.com/picdir/middle/408-4082427_tesla-logo-motors-png-tesla-logo-vector-clipart.png" width="30">
+    
 [![Linkedin:jacob baggs](https://img.shields.io/badge/-jacobbaggs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-baggs-41a00485/)](https://www.linkedin.com/in/jacob-baggs-41a00485/)
 [![GitHub JacobBaggs](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/jbaggs62)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
